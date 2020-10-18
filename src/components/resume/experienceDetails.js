@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import resumeData from '../../data/resumeData';
 export default  class ExperienceDetails extends Component {
 
     handleClose = (i) => {
@@ -12,15 +13,15 @@ export default  class ExperienceDetails extends Component {
         let achievements = this.props.achievements;
         return (
             <div className={showHideClassName}>
-                <div className='modal-main'>
-                    <div className='released-task'>Tâche réalisées :</div>
+                <div className='modal-main' style={{minWidth: "400px"}}>
+                    <div className='released-task'>{resumeData.taskrealeased} :</div>
                     <div className=" columns main-col">
                         {
                             achievements && achievements.map((item, i) => {
                                 return(
                                     <div key={"achievement" + index + i} className="row item">
                                         <div className="twelve columns">
-                                            <p className="info">
+                                            <p className="info" style={{textAlign: "left"}}>
                                                 <span>&bull;</span>
                                                 <span>
                                                     <em className="date">{item}</em>
