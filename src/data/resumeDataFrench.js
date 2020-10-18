@@ -204,7 +204,8 @@ let resumeDataFrench = {
     "task": "Tâches réalisées",
     "context": "Contexte",
     "about": "À propos de moi",
-    "contactDetails": "Mes coordonnées"
+    "contactDetails": "Mes coordonnées",
+    "taskrealeased": "Tâche réalisées"
   }
   
   export default resumeDataFrench;
