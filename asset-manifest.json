@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "//ehicham95.github.io/resume/static/css/main.84facf53.chunk.css",
+    "main.js": "//ehicham95.github.io/resume/static/js/main.6058cbd6.chunk.js",
+    "main.js.map": "//ehicham95.github.io/resume/static/js/main.6058cbd6.chunk.js.map",
+    "runtime-main.js": "//ehicham95.github.io/resume/static/js/runtime-main.e2749d45.js",
+    "runtime-main.js.map": "//ehicham95.github.io/resume/static/js/runtime-main.e2749d45.js.map",
+    "static/js/2.1a1d116f.chunk.js": "//ehicham95.github.io/resume/static/js/2.1a1d116f.chunk.js",
+    "static/js/2.1a1d116f.chunk.js.map": "//ehicham95.github.io/resume/static/js/2.1a1d116f.chunk.js.map",
+    "index.html": "//ehicham95.github.io/resume/index.html",
+    "precache-manifest.4de5242b1424ba6f39131d3a00643fe3.js": "//ehicham95.github.io/resume/precache-manifest.4de5242b1424ba6f39131d3a00643fe3.js",
+    "service-worker.js": "//ehicham95.github.io/resume/service-worker.js",
+    "static/css/main.84facf53.chunk.css.map": "//ehicham95.github.io/resume/static/css/main.84facf53.chunk.css.map",
+    "static/js/2.1a1d116f.chunk.js.LICENSE.txt": "//ehicham95.github.io/resume/static/js/2.1a1d116f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2749d45.js",
+    "static/js/2.1a1d116f.chunk.js",
+    "static/css/main.84facf53.chunk.css",
+    "static/js/main.6058cbd6.chunk.js"
+  ]
+}
