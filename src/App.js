@@ -11,7 +11,7 @@ import resumeDataFrench from './data/resumeDataFrench';
 
 class App extends Component {
 
-  static url = window.location.origin + "/portfolio/";
+  static url = window.location.origin + "/";
 
   render() {
     var url = window.location.href.includes("en");
