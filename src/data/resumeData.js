@@ -204,7 +204,7 @@ let resumeData = {
   "context": "Context",
   "about": "About me",
   "contactDetails": "Contact details",
-  "taskrealeased": "Tasks released"
+  "taskrealeased": "Tasks performed"
 }
 
 export default resumeData

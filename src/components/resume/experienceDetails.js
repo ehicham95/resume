@@ -12,8 +12,8 @@ export default  class ExperienceDetails extends Component {
         const close = this.props.close;
         let achievements = this.props.achievements;
         return (
-            <div className={showHideClassName}>
-                <div className='modal-main' style={{minWidth: "400px"}}>
+            <div className={showHideClassName} style={{animationName: "slideIn", animationDuration: "1s"}}>
+                <div className='modal-main' style={{minWidth: "400px", borderRadius: "2%"}}>
                     <div className='released-task'>{resumeData.taskrealeased} :</div>
                     <div className=" columns main-col">
                         {
