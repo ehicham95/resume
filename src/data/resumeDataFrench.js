@@ -113,7 +113,7 @@ let resumeDataFrench = {
                     "l'apprentissage des immigrants, gestion des cours et génération des statistiques pour les " +
                     "partenaires. L'application était développée à la méthode agile scrum.",
         "Achievements":[
-          "Développement back-end en J2ee, Spring.",
+          "Développement back-end en C#, .Net core 2.1 and Entity Framework.",
           "Développement front-end avec Angular 7 (RESTful services, components, routes).",
           "Tests fonctionnels",
           "Tests d’intégration continue avec Jenkins.",
