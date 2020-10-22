@@ -104,7 +104,7 @@ let resumeDataFrench = {
       },
       {
         "CompanyName":"AMATRAMI",
-        "specialization":"Développeur Full-Stack Java/Angular",
+        "specialization":"Développeur Full-Stack C#/Angular",
         "MonthOfStarting":"Octobre",
         "YearOfStarting":"2018",
         "MonthOfLeaving":"Mars",
