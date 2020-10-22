@@ -28,12 +28,10 @@ let resumeDataFrench = {
           "className":"fa fa-envelope"
         }
       ],
-    "aboutme":"Je suis un développeur Full-Stack (C#/Java/Angular) avec plus d'une année d'expérience. Mes expériences m'ont permis d'acquerir des compétences techniques, fonctionnelles" + 
+    "aboutme":"Je suis un développeur Full-Stack (C#/Angular) avec plus d'une année d'expérience. Mes expériences m'ont permis d'acquerir des compétences techniques, fonctionnelles" + 
               " et méthodologiques qui me permettent de développer un code lisible, clean et des bonnes interfaces graphiques" +
               "\n\nAutonome, curieux, orienté solution et doté d'un esprit d'équipe. Après une journée de développement, je trouve un plaisir à lire les actualités, notament sur des sujets" +
-              "de la science de données, intelligence artificielle, développement web et économiques." +
-              "\n\nPassionné par le développement des applications web, j'ai commencé" +
-              " récemment à développer un intérêt sur la technologie .NET Core et React, vous pouvez consulter mon projet personnel sur mon ",
+              "de la science de données, intelligence artificielle, développement web et économiques.",
     "address":"Levallois-Perret, France.",
     "website":"(+33) 07.86.66.98.08",
     "education":[
@@ -64,10 +62,10 @@ let resumeDataFrench = {
         "CompanyName":"ALGOFI",
         "specialization":"Développeur Front-End Angular 8",
         "MonthOfStarting":"Octobre",
-        "YearOfStarting":"2020",
+        "YearOfStarting":"2019",
         "MonthOfLeaving":"Septembre",
         "YearOfLeaving":"2020",
-        "Context": " création d'une application pour l'entreprise ICare, qui permet de calculer les ASD/plus " +
+        "Context": " création d'une application pour l'entreprise ICare (acquis par BNP Paribas), qui permet de calculer les ASD/plus " +
                     "et moins, générer un rapport annexe 7D, déployer l'application avec le back-end et apporter la " +
                     "maintenance niveau 2 et 3.",
         "Achievements":[
@@ -78,7 +76,7 @@ let resumeDataFrench = {
           "Tests fonctionnels.",
           "Participation à la mise en production"
         ],
-        "technologies": "Angular 8, Angular Material, Material Design, Tomcat 8, JEE, Spring, Hibernate, Git.",
+        "technologies": "Angular 8, Angular Material, Material Design, Tomcat 8, J2EE, Spring, Hibernate, Git.",
         "image": "algofi.gif",
         "alt": "Algofi"
       },
@@ -100,7 +98,7 @@ let resumeDataFrench = {
           "Création d’une interface graphique pour le paramétrage des filtres qui sert à affiner les résultats.",
           "Réalisation des interfaces graphiques pour afficher les résultats avec une bonne ergonomie."
         ],
-        "technologies": "C#, ASP .NET, JavaScript, JQuery, HTML, CSS, BootStrap, Postgre SQL, Solr, Visual Studio, Git.",
+        "technologies": "C#, ASP .NET 4.7, Entity Framework, JavaScript, JQuery, HTML, CSS, BootStrap, Postgre SQL, Solr, Visual Studio, Git.",
         "image": "diadeis.png",
         "alt": "Diadeis"
       },
@@ -115,13 +113,13 @@ let resumeDataFrench = {
                     "l'apprentissage des immigrants, gestion des cours et génération des statistiques pour les " +
                     "partenaires. L'application était développée à la méthode agile scrum.",
         "Achievements":[
-          "Back-end development with J2ee, Spring.",
-          "Front-end development with Angular 7 (services REST, components, routes).",
-          "Functional tests",
-          "Integration testing continues with Jenkins.",
-          "Participation in deployment"
+          "Développement back-end en J2ee, Spring.",
+          "Développement front-end avec Angular 7 (RESTful services, components, routes).",
+          "Tests fonctionnels",
+          "Tests d’intégration continue avec Jenkins.",
+          "Participation à la mise en production"
         ],
-        "technologies": "Java EE, Spring, Hibernate, FireBase, Tomcat, MongoDB, JavaScript, HTML, CSS, JQuery, BootStrap, Android Studio.",
+        "technologies": "C#, .Net Core, Entity Framework core, SQL server, Angular, Jenkins, Docker, Heroku.",
         "image": "amatrami.jpg",
         "alt": "Amatrami"
       }

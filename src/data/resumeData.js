@@ -28,12 +28,10 @@ let resumeData = {
         "className":"fa fa-envelope"
       }
     ],
-  "aboutme":"I am a Full-Stack developer (C # / Java / Angular) with more than a year of experience. My experiences have allowed me to acquire technical, functional" +
+  "aboutme":"I am a Full-Stack developer (C#/Angular) with more than a year of experience. My experiences have allowed me to acquire technical, functional" +
             "and methodological skills that allow me to develop readable, clean code and good graphical interfaces" +
             "\n\nAutonomous, curious, solution-oriented and endowed with a team spirit. After a day of development, I find the pleasure in reading the news, particularly on" +
-            " data science, artificial intelligence, web development and economics." +
-            "\n\nPassionate about web devlopment, I started" +
-            "recently to devlop an interest in .NET Core and React technology, you can check out my personal project on my ",
+            " data science, artificial intelligence, web development and economics.",
   "address":"Levallois-Perret, France.",
   "website":"(+33) 07.86.66.98.08",
   "education":[
@@ -64,10 +62,10 @@ let resumeData = {
       "CompanyName":"ALGOFI",
       "specialization":"Front-End developer Angular 8",
       "MonthOfStarting":"October",
-      "YearOfStarting":"2020",
+      "YearOfStarting":"2019",
       "MonthOfLeaving":"September",
       "YearOfLeaving":"2020",
-      "Context": "creation of an application for the company ICare, which makes it possible to calculate ASD / plus" +
+      "Context": "creation of an application for the company ICare (acquired by BNP Paribas), which makes it possible to calculate ASD / plus" +
                   "and less, generate an appendix 7D report, deploy the application with the back-end and provide the" +
                   "maintenance level 2 and 3.",
       "Achievements":[
@@ -78,7 +76,7 @@ let resumeData = {
         "Functional tests.",
         "Participation in deployment"
       ],
-      "technologies": "Angular 8, Angular Material, Material Design, Tomcat 8, JEE, Spring, Hibernate, Git.",
+      "technologies": "Angular 8, Angular Material, Material Design, Tomcat 8, J2EE, Spring, Hibernate, Git.",
       "image": "algofi.gif",
       "alt": "Algofi"
     },
@@ -100,7 +98,7 @@ let resumeData = {
         "Creation of a graphical interface for configuring filters which is used to refine the results.",
         "Development of graphical interfaces to display the results with good ergonomics."
       ],
-      "technologies": "C#, ASP .NET, JavaScript, JQuery, HTML, CSS, BootStrap, Postgre SQL, Solr, Visual Studio, Git.",
+      "technologies": "C#, ASP .NET 4.7, Entity Framework, JavaScript, JQuery, HTML, CSS, BootStrap, Postgre SQL, Solr, Visual Studio, Git.",
       "image": "diadeis.png",
       "alt": "Diadeis"
     },
@@ -114,13 +112,13 @@ let resumeData = {
       "Context": "Digitization of AMATRAMI association activities, which deals with" +
                   "immigrant learning, courses management and generation of statistics.",
       "Achievements":[
-        "Développement back-end avec J2ee, Spring.",
-        "Développement front-end avec Angular 7 (RESTful services, components, routes).",
-        "Tests fonctionnels",
-        "Tests d’intégration continue avec Jenkins.",
-        "Participation à la mise en production"
+        "Back-end development with C#, .Net core 2.1 and Entity Framework.",
+        "Front-end development with Angular 7 (services REST, components, routes).",
+        "Functional tests",
+        "Integration testing continues with Jenkins.",
+        "Participation in deployment"
       ],
-      "technologies": "Java EE, Spring, Hibernate, FireBase, Tomcat, MongoDB, JavaScript, HTML, CSS, JQuery, BootStrap, Android Studio.",
+      "technologies": "C#, .Net Core, Entity Framework core, SQL Server, Angular, Jenkins, Docker, Heroku.",
       "image": "amatrami.jpg",
       "alt": "Amatrami"
     }
