@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "de13599234a743d518ebc543fc5902cd",
+    "revision": "e329ee979eaef8a58ccb95e50f3b3ebb",
     "url": "//ehicham95.github.io/resume/index.html"
   },
   {
-    "revision": "89675b4f0b8abee24bc0",
+    "revision": "ed153e45ae18bd3eeeee",
     "url": "//ehicham95.github.io/resume/static/css/main.84facf53.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "//ehicham95.github.io/resume/static/js/2.1a1d116f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "89675b4f0b8abee24bc0",
-    "url": "//ehicham95.github.io/resume/static/js/main.9daa6613.chunk.js"
+    "revision": "ed153e45ae18bd3eeeee",
+    "url": "//ehicham95.github.io/resume/static/js/main.3195ee7f.chunk.js"
   },
   {
     "revision": "a4c9dbb5439d19b77360",
